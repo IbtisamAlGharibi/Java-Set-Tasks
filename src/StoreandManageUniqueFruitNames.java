@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task24 {
+public class StoreandManageUniqueFruitNames {
     public static void main(String[] args){
 
         Set<String> fruitNames = new HashSet<>();
