@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task4 {
+public class RemoveAnElement {
     public static void main(String[] args){
         Set<String> productName = new HashSet<>();
         productName.add("prod1");
