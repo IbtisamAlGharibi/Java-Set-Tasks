@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task16 {
+public class ManageUniqueStudentNames {
 
     public static void main(String[] args){
 
