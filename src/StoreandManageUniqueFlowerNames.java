@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task25 {
+public class StoreandManageUniqueFlowerNames {
 
     public static void main(String[] args){
 
