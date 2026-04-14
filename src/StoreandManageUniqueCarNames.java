@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task21 {
+public class StoreandManageUniqueCarNames {
     public static void main(String[] args){
 
         Set<String> carNames = new HashSet<>();
