@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task9 {
+public class ManageUniqueCityNames {
     public static void main(String[] args){
         Set<String> cityNames = new HashSet<>();
         cityNames.add("Ibri");
