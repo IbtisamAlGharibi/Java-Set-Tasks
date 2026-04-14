@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task20 {
+public class StoreandManageUniqueSubjectNames {
 
     public static void main(String[] args){
 
