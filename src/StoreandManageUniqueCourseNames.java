@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task17 {
+public class StoreandManageUniqueCourseNames {
     public static void main(String[] args){
         Set<String> courseNames = new HashSet<>();
         courseNames.add("Java");
