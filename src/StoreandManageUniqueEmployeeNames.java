@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task19 {
+public class StoreandManageUniqueEmployeeNames {
 
     public static void main(String[] args){
 
