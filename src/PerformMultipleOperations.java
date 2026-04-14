@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task7 {
+public class PerformMultipleOperations {
     public static void main(String[] args){
         Set<String> employeesIds = new HashSet<>();
         employeesIds.add("001");
