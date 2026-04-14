@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task3 {
+public class SearchforElement {
     public static void main(String[] args){
         Set<String> employeesIds = new HashSet<>();
         employeesIds.add("001");
