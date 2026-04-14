@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task2 {
+public class CheckDuplicateValues {
     public static void main(String[] args){
         Set<String> customerIds = new HashSet<>();
         customerIds.add("001");
