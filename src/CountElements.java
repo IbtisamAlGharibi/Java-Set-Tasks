@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task5 {
+public class CountElements {
     public static void main(String[] args0){
 
         Set<String> deptName = new HashSet<>();
