@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task11 {
+public class ManageUniqueBookTitles {
     public static void main(String[] args){
         Set<String> bookTitle = new HashSet<>();
         bookTitle.add("Harry Potter");
