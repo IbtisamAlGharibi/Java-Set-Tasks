@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task23 {
+public class StoreandManageUniqueAnimalNames {
 
     public static void main(String[] args){
 
