@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task13 {
+public class ManageUniqueMovieNames {
     public static void main(String[] args){
         Set<String> movieNames = new HashSet<>();
         movieNames.add("Harry Potter");
