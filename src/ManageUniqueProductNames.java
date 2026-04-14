@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task15 {
+public class ManageUniqueProductNames {
 
     public static void main(String[] args){
         Set<String> products = new HashSet<>();
